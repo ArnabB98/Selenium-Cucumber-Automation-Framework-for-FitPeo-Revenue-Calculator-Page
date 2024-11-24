@@ -16,8 +16,8 @@ Prerequisites:
 - IntelliJ IDEA or Eclipse IDE
 
 Installation:
-1. Clone the repository: `git clone https://github.com/example/selenium-cucumber-framework.git`
-2. Navigate to the project directory: `cd selenium-cucumber-framework`
+1. Clone the repository: `git clone https://github.com/ArnabB98/Selenium-Cucumber-Automation-Framework-for-FitPeo-Revenue-Calculator-Page`
+2. Navigate to the project directory: `cd Selenium-Cucumber-Automation-Framework-for-FitPeo-Revenue-Calculator-Page`
 3. Install dependencies: `mvn clean install`
 
 
